@@ -1,5 +1,5 @@
 # 23HS Foundations of Data Science (FDS)
-This repository includes the practical assignments of the course FDS. Both practicals are written in `Python`.
+This repository includes the practical assignments of the course FDS ([source repository](https://github.com/dastuzh/FDS23-T112)). Both practicals are written in `Python`.
 
 ## Practical 1: Implementation of Linear Regression (`Ridge`, `Lasso`)
 Using the [public dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality) about wine features, a linear model is trained to predict their quality labels. Furthermore, the model is analyzed with respect to over- and underfitting. As a second step the model is improved by polynomial basis expansion and regularisation. Finally, a closer look at the individual features shows their importance and interaction.
